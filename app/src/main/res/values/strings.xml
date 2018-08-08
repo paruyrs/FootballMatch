@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Football Match</string>
+    <string name="home_team_name">Team A</string>
+    <string name="away_team_name">Team B</string>
+    <string name="initial_score">0</string>
+    <string name="start_match_announcement">Kick-Off</string>
+    <string name="end_match_announcement">End Match</string>
+    <string name="reset">New Match</string>
+    <string name="announcements">Match not started yet</string>
+    <string name="team_scores">Goal</string>
+    <string name="shots">Shots</string>
+    <string name="yellow_card">Yellow Cards</string>
+    <string name="red_card">Red Cards</string>
+
+
+
+</resources>
